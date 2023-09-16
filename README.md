@@ -29,6 +29,15 @@ A new startup wants to build the next generation online trip management dashboar
 # Solution architecture
 Proposed complete solution can be found here [Road Warrior - Solution Architecure](https://github.com/AlokSgupta/Road-Warrior-TRS/blob/main/Gensights.Architecture.Presentation-Katta2023.pdf)
 
+
+# Team
+Name: Gensights
+Members: 
+  - [Alok Gupta](https://www.linkedin.com/in/enggalok/)
+  - [Kiran Vangala](https://www.linkedin.com/in/divya-gangula/)
+  - [Divya Gangula](https://www.linkedin.com/in/kiran-vangala-9155ab10/)
+
+
 #References
 - [Modern Payment Gatwway](https://www.redhat.com/architect/portfolio/detail/12-integrating-a-modern-payments-architecture)
 - [Software Architecture Pattern](https://learning.oreilly.com/library/view/software-architecture-patterns/9781098134280/)
