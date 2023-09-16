@@ -1,6 +1,5 @@
-# Road-Warrior-TRS
-Team Gensights presentation for Katta 2023 challange. <img width="252" alt="image" src="https://github.com/AlokSgupta/Road-Warrior-TRS/assets/13452049/f53da59c-a6e5-4320-b26f-e16fab7f2b67">
-
+# <img width="252" alt="image" src="https://github.com/AlokSgupta/Road-Warrior-TRS/assets/13452049/f53da59c-a6e5-4320-b26f-e16fab7f2b67"> Road-Warrior-TRS 
+Team Gensights presentation for Katta 2023 challange. 
 
 # Problem
 A new startup wants to build the next generation online trip management dashboard to allow travelers to see all of their existing reservations organized by trip either online (web) or through their mobile device.
