@@ -1,4 +1,4 @@
-# <img width="252" alt="image" src="https://github.com/AlokSgupta/Road-Warrior-TRS/assets/13452049/f53da59c-a6e5-4320-b26f-e16fab7f2b67"> Road-Warrior-TRS 
+# <img width="252" alt="image" src="https://github.com/AlokSgupta/Road-Warrior-TRS/assets/13452049/f53da59c-a6e5-4320-b26f-e16fab7f2b67"> Road-Warrior-TRS - O'Reilly Architectural Katas 2023
 Team Gensights presentation for Katta 2023 challange. 
 
 # Problem
@@ -26,6 +26,11 @@ A new startup wants to build the next generation online trip management dashboar
 - Travel updates must be presented in the app within 5 minutes of generation by the source
 - Response time from web (800ms) and mobile (First-contentful paint of under 1.4 sec)
 
-  # Solution architecture
-  Proposed complete solution can be found here [Road Warrior - Solution Architecure](https://github.com/AlokSgupta/Road-Warrior-TRS/blob/main/Gensights.Architecture.Presentation-Katta2023.pdf)
+# Solution architecture
+Proposed complete solution can be found here [Road Warrior - Solution Architecure](https://github.com/AlokSgupta/Road-Warrior-TRS/blob/main/Gensights.Architecture.Presentation-Katta2023.pdf)
 
+#References
+- [Modern Payment Gatwway](https://www.redhat.com/architect/portfolio/detail/12-integrating-a-modern-payments-architecture)
+- [Software Architecture Pattern](https://learning.oreilly.com/library/view/software-architecture-patterns/9781098134280/)
+- [Mastering Patterns in Event-Driven Architecture](https://learning.oreilly.com/live-events/mastering-patterns-in-event-driven-architecture/0636920064167/)
+- [Playlist](https://learning.oreilly.com/playlists/a8b481fb-1232-4c84-be62-48bed4c517fa/)
