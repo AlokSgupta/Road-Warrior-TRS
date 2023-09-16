@@ -26,3 +26,6 @@ A new startup wants to build the next generation online trip management dashboar
 - Travel updates must be presented in the app within 5 minutes of generation by the source
 - Response time from web (800ms) and mobile (First-contentful paint of under 1.4 sec)
 
+  # Solution architecture
+  Proposed complete solution can be found here [Road Warrior - Solution Architecure](https://github.com/AlokSgupta/Road-Warrior-TRS/blob/main/Gensights.Architecture.Presentation-Katta2023.pdf)
+
